@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+}
+
+#myimg {
+    border-radius: 55%;
+    width: 155px;
+}
+
+#head1 {
+    color: dodgerblue;
+    text-shadow: 2px 2px;
+}
+
+#head2 {
+    color: darkviolet;
+    font-family: 'Padauk', sans-serif;
+}
+
+#sec1 {
+    background: linear-gradient(#E1BEE7 0%, #90caf9 100%);
+}
+
+#sec2 {
+    background: linear-gradient(#1565C0 0%, #2E7D32 100%);
+}
+.links {
+    color: darkslateblue;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-size: 20px;
+    display: inline;
+}
+
+.links:hover {
+    background-color: cornsilk;
+    font-size: 25px;
+    text-decoration: underline;
+}
+html{
+    scroll-behavior: smooth;
+}
